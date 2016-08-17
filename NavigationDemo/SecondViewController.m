@@ -27,9 +27,9 @@
 }
 // 设置从其他页面到该页面的导航颜色
 - (UIColor *)navigationBarInColor {
-    return [UIColor clearColor];
+//    return [UIColor clearColor];
 //    return [UIColor colorWithRed:0.972 green:0.394 blue:0.294 alpha:1.000];
-//    return [UIColor colorWithRed:0.018 green:0.028 blue:0.023 alpha:0.777];
+    return [UIColor colorWithRed:0.018 green:0.028 blue:0.023 alpha:0.777];
 }
 
 @end
